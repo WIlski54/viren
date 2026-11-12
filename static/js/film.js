@@ -49,12 +49,27 @@ VIR.film = (() => {
       <div class="film-kopf">
         <span class="film-titel" id="film-titel"></span>
         <span class="film-stand" id="film-stand" aria-live="polite"></span>
+        <button class="btn btn-quiet btn-sm film-anordnung" type="button" data-action="film-anordnung" title="Film über den Aufgaben oder daneben zeigen"></button>
         <button class="btn btn-quiet btn-sm film-klein" type="button" data-action="film-klein" aria-expanded="true" title="Film verkleinern">▾</button>
       </div>
       <div class="film-rahmen" id="film-rahmen"></div>`;
     wrap.append(panels, buehne);
+    anordnungSetzen(gespeicherteAnordnung());
     return buehne;
   }
+  // Anordnung „daneben“ (Standard) oder „oben“; pro Gerät gemerkt
+  function gespeicherteAnordnung() { try { return localStorage.getItem("vir-film-anordnung") || "daneben"; } catch (e) { return "daneben"; } }
+  function anordnungSetzen(a) {
+    document.body.classList.toggle("film-oben", a === "oben");
+    const k = buehne && buehne.querySelector(".film-anordnung");
+    if (k) k.textContent = a === "oben" ? "◫ Film daneben" : "⬒ Film groß oben";
+    try { localStorage.setItem("vir-film-anordnung", a); } catch (e) { /* nur Komfort */ }
+  }
+  VIR.actions["film-anordnung"] = () => {
+    anordnungSetzen(document.body.classList.contains("film-oben") ? "daneben" : "oben");
+    if (!document.body.classList.contains("film-oben")) return;
+    buehne.scrollIntoView({ behavior: "smooth", block: "start" });
+  };
   VIR.actions["film-klein"] = el => {
     const klein = buehne.classList.toggle("klein");
     el.textContent = klein ? "▸ Film zeigen" : "▾"; el.setAttribute("aria-expanded", String(!klein));
