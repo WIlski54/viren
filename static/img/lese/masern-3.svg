@@ -1,0 +1,44 @@
+<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 480 288' role='img' aria-label='Krankes Kind mit Schnupfen und Fieber, Lupe auf weißliche Flecken an der Wangenschleimhaut' font-family='Lato, Arial, sans-serif'>
+<title>Krankes Kind mit Schnupfen und Fieber, Lupe auf weißliche Flecken an der Wangenschleimhaut</title>
+<defs>
+<linearGradient id='gHimmel' x1='0' y1='0' x2='0' y2='1'><stop offset='0' stop-color='#eaf4fb'/><stop offset='1' stop-color='#f8fbfd'/></linearGradient>
+<linearGradient id='gBoden' x1='0' y1='0' x2='0' y2='1'><stop offset='0' stop-color='#e8dcc4'/><stop offset='1' stop-color='#d6c6a6'/></linearGradient>
+<radialGradient id='gVirus' cx='.35' cy='.35' r='.75'><stop offset='0' stop-color='#a7e08f'/><stop offset='.6' stop-color='#5fa85a'/><stop offset='1' stop-color='#2f6b34'/></radialGradient>
+<radialGradient id='gVirusGrau' cx='.35' cy='.35' r='.75'><stop offset='0' stop-color='#d9dde2'/><stop offset='1' stop-color='#6b7280'/></radialGradient>
+<radialGradient id='gZelle' cx='.3' cy='.3' r='.9'><stop offset='0' stop-color='#fdf3d6'/><stop offset='.7' stop-color='#f7d7a6'/><stop offset='1' stop-color='#e6a77f'/></radialGradient>
+<radialGradient id='gKern' cx='.35' cy='.35' r='.8'><stop offset='0' stop-color='#e7c9ef'/><stop offset='1' stop-color='#9c6bb8'/></radialGradient>
+<linearGradient id='gBakt' x1='0' y1='0' x2='0' y2='1'><stop offset='0' stop-color='#f3e6c4'/><stop offset='.5' stop-color='#e8cf95'/><stop offset='1' stop-color='#c99c55'/></linearGradient>
+<radialGradient id='gHaut' cx='.4' cy='.35' r='.8'><stop offset='0' stop-color='#ffe2c8'/><stop offset='1' stop-color='#e9b48f'/></radialGradient>
+<linearGradient id='gGlas' x1='0' y1='0' x2='1' y2='0'><stop offset='0' stop-color='#dfe8f0'/><stop offset='.5' stop-color='#ffffff'/><stop offset='1' stop-color='#cfdbe6'/></linearGradient>
+<linearGradient id='gBett' x1='0' y1='0' x2='0' y2='1'><stop offset='0' stop-color='#b9d4ec'/><stop offset='1' stop-color='#7fa9cf'/></linearGradient>
+<linearGradient id='gSchild' x1='0' y1='0' x2='0' y2='1'><stop offset='0' stop-color='#4da3e0'/><stop offset='1' stop-color='#004b80'/></linearGradient>
+<linearGradient id='gBlatt' x1='0' y1='0' x2='1' y2='1'><stop offset='0' stop-color='#9fd37c'/><stop offset='1' stop-color='#3f8a3a'/></linearGradient>
+<filter id='fSchatten' x='-20%' y='-20%' width='140%' height='140%'><feDropShadow dx='1.5' dy='2.5' stdDeviation='2' flood-color='#1e293b' flood-opacity='.25'/></filter>
+<marker id='mPfeil' markerWidth='9' markerHeight='9' refX='7' refY='4.5' orient='auto'><path d='M0,0 L9,4.5 L0,9 z' fill='#004b80'/></marker>
+<marker id='mPfeilRot' markerWidth='9' markerHeight='9' refX='7' refY='4.5' orient='auto'><path d='M0,0 L9,4.5 L0,9 z' fill='#dc2626'/></marker>
+</defs>
+<rect width='480' height='288' rx='14' fill='url(#gHimmel)'/>
+<text x='18' y='26' font-size='15' font-weight='900' fill='#004b80' text-anchor='start' stroke='#ffffff' stroke-width='3.5' stroke-linejoin='round' paint-order='stroke'>Das 1. Stadium</text>
+<g filter='url(#fSchatten)'><rect x='136.5' y='211.0' width='10.5' height='51.0' rx='4.5' fill='#334155'/><rect x='153.0' y='211.0' width='10.5' height='51.0' rx='4.5' fill='#334155'/><path d='M126.0,217.0 q0,-45.0 24.0,-51.0 q24.0,6.0 24.0,51.0 z' fill='#64748b'/><path d='M129.0,175.0 q-15.0,18.0 -12.0,39.0' stroke='#64748b' stroke-width='10.5' fill='none' stroke-linecap='round'/><path d='M171.0,175.0 q15.0,18.0 12.0,39.0' stroke='#64748b' stroke-width='10.5' fill='none' stroke-linecap='round'/><circle cx='150' cy='145.0' r='22.5' fill='url(#gHaut)'/><path d='M127.5,142.0 q3.0,-27.0 22.5,-22.5 q19.5,-4.5 22.5,22.5 q-12.0,-12.0 -22.5,-9.0 z' fill='#5b3a1e'/><circle cx='142.5' cy='143.5' r='2.7' fill='#c0392b'/><circle cx='157.5' cy='143.5' r='2.7' fill='#c0392b'/><path d='M142.5,157.0 q7.5,-6.0 15.0,0' stroke='#1e293b' stroke-width='2.4000000000000004' fill='none'/></g>
+<g filter='url(#fSchatten)'><path d='M178,118 q22,-6 30,8 q-8,14 -28,10 z' fill='#ffffff' stroke='#cbd5e1'/></g>
+<text x='206' y='108' font-size='11' font-weight='800' fill='middle' text-anchor='middle' stroke='#ffffff' stroke-width='3.5' stroke-linejoin='round' paint-order='stroke'>Schnupfen, Husten</text>
+<g filter='url(#fSchatten)'><rect x='28' y='130' width='16' height='100' rx='8' fill='url(#gGlas)' stroke='#94a3b8' stroke-width='1.5'/><rect x='32.5' y='172.7' width='7' height='57.3' fill='#dc2626'/><circle cx='36' cy='230' r='12' fill='#dc2626' stroke='#94a3b8' stroke-width='1.5'/></g><line x1='44' y1='197.1' x2='50' y2='197.1' stroke='#64748b' stroke-width='1.2'/><text x='66' y='201.0909090909091' font-size='9' font-weight='700' fill='#6b7280' text-anchor='middle' stroke='#ffffff' stroke-width='3.5' stroke-linejoin='round' paint-order='stroke'>37 °C</text><line x1='44' y1='181.8' x2='50' y2='181.8' stroke='#64748b' stroke-width='1.2'/><text x='66' y='185.8181818181818' font-size='9' font-weight='700' fill='#6b7280' text-anchor='middle' stroke='#ffffff' stroke-width='3.5' stroke-linejoin='round' paint-order='stroke'>38 °C</text><line x1='44' y1='166.5' x2='50' y2='166.5' stroke='#64748b' stroke-width='1.2'/><text x='66' y='170.54545454545456' font-size='9' font-weight='700' fill='#6b7280' text-anchor='middle' stroke='#ffffff' stroke-width='3.5' stroke-linejoin='round' paint-order='stroke'>39 °C</text><line x1='44' y1='151.3' x2='50' y2='151.3' stroke='#64748b' stroke-width='1.2'/><text x='66' y='155.27272727272725' font-size='9' font-weight='700' fill='#6b7280' text-anchor='middle' stroke='#ffffff' stroke-width='3.5' stroke-linejoin='round' paint-order='stroke'>40 °C</text><text x='36' y='122' font-size='14' font-weight='900' fill='#dc2626' text-anchor='middle' stroke='#ffffff' stroke-width='3.5' stroke-linejoin='round' paint-order='stroke'>38,6 °C</text>
+<g filter='url(#fSchatten)'><circle cx='350' cy='150' r='78' fill='#d9737a' stroke='#475569' stroke-width='8'/><path d='M290,150 q60,-50 120,0 q-60,46 -120,0 z' fill='#b4474f'/><path d='M300,150 q50,-30 100,0' fill='none' stroke='#ffffff' stroke-width='10' stroke-linecap='round' opacity='.85'/><line x1='408' y1='206' x2='446' y2='250' stroke='#475569' stroke-width='12' stroke-linecap='round'/></g>
+<circle cx='300' cy='104' r='3' fill='#ffffff' stroke='#f3d6d6' stroke-width='1'/>
+<circle cx='323' cy='121' r='3' fill='#ffffff' stroke='#f3d6d6' stroke-width='1'/>
+<circle cx='346' cy='108' r='3' fill='#ffffff' stroke='#f3d6d6' stroke-width='1'/>
+<circle cx='369' cy='125' r='3' fill='#ffffff' stroke='#f3d6d6' stroke-width='1'/>
+<circle cx='392' cy='112' r='3' fill='#ffffff' stroke='#f3d6d6' stroke-width='1'/>
+<circle cx='315' cy='129' r='3' fill='#ffffff' stroke='#f3d6d6' stroke-width='1'/>
+<circle cx='338' cy='116' r='3' fill='#ffffff' stroke='#f3d6d6' stroke-width='1'/>
+<circle cx='361' cy='133' r='3' fill='#ffffff' stroke='#f3d6d6' stroke-width='1'/>
+<circle cx='384' cy='120' r='3' fill='#ffffff' stroke='#f3d6d6' stroke-width='1'/>
+<circle cx='307' cy='107' r='3' fill='#ffffff' stroke='#f3d6d6' stroke-width='1'/>
+<circle cx='330' cy='124' r='3' fill='#ffffff' stroke='#f3d6d6' stroke-width='1'/>
+<circle cx='353' cy='111' r='3' fill='#ffffff' stroke='#f3d6d6' stroke-width='1'/>
+<circle cx='376' cy='128' r='3' fill='#ffffff' stroke='#f3d6d6' stroke-width='1'/>
+<circle cx='399' cy='115' r='3' fill='#ffffff' stroke='#f3d6d6' stroke-width='1'/>
+<text x='350' y='60' font-size='12' font-weight='900' fill='#AD007C' text-anchor='middle' stroke='#ffffff' stroke-width='3.5' stroke-linejoin='round' paint-order='stroke'>Lupe: Wangenschleimhaut</text>
+<text x='330' y='262' font-size='12' font-weight='900' fill='#1e293b' text-anchor='middle' stroke='#ffffff' stroke-width='3.5' stroke-linejoin='round' paint-order='stroke'>weißliche Flecken</text>
+<text x='150' y='284' font-size='10' font-weight='700' fill='#6b7280' text-anchor='middle' stroke='#ffffff' stroke-width='3.5' stroke-linejoin='round' paint-order='stroke'>Augen oft entzündet</text>
+</svg>

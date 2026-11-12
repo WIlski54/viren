@@ -1,0 +1,79 @@
+<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 480 288' role='img' aria-label='Ein Kind niest, Tröpfchen mit Masernviren fliegen zu einem anderen Kind' font-family='Lato, Arial, sans-serif'>
+<title>Ein Kind niest, Tröpfchen mit Masernviren fliegen zu einem anderen Kind</title>
+<defs>
+<linearGradient id='gHimmel' x1='0' y1='0' x2='0' y2='1'><stop offset='0' stop-color='#eaf4fb'/><stop offset='1' stop-color='#f8fbfd'/></linearGradient>
+<linearGradient id='gBoden' x1='0' y1='0' x2='0' y2='1'><stop offset='0' stop-color='#e8dcc4'/><stop offset='1' stop-color='#d6c6a6'/></linearGradient>
+<radialGradient id='gVirus' cx='.35' cy='.35' r='.75'><stop offset='0' stop-color='#a7e08f'/><stop offset='.6' stop-color='#5fa85a'/><stop offset='1' stop-color='#2f6b34'/></radialGradient>
+<radialGradient id='gVirusGrau' cx='.35' cy='.35' r='.75'><stop offset='0' stop-color='#d9dde2'/><stop offset='1' stop-color='#6b7280'/></radialGradient>
+<radialGradient id='gZelle' cx='.3' cy='.3' r='.9'><stop offset='0' stop-color='#fdf3d6'/><stop offset='.7' stop-color='#f7d7a6'/><stop offset='1' stop-color='#e6a77f'/></radialGradient>
+<radialGradient id='gKern' cx='.35' cy='.35' r='.8'><stop offset='0' stop-color='#e7c9ef'/><stop offset='1' stop-color='#9c6bb8'/></radialGradient>
+<linearGradient id='gBakt' x1='0' y1='0' x2='0' y2='1'><stop offset='0' stop-color='#f3e6c4'/><stop offset='.5' stop-color='#e8cf95'/><stop offset='1' stop-color='#c99c55'/></linearGradient>
+<radialGradient id='gHaut' cx='.4' cy='.35' r='.8'><stop offset='0' stop-color='#ffe2c8'/><stop offset='1' stop-color='#e9b48f'/></radialGradient>
+<linearGradient id='gGlas' x1='0' y1='0' x2='1' y2='0'><stop offset='0' stop-color='#dfe8f0'/><stop offset='.5' stop-color='#ffffff'/><stop offset='1' stop-color='#cfdbe6'/></linearGradient>
+<linearGradient id='gBett' x1='0' y1='0' x2='0' y2='1'><stop offset='0' stop-color='#b9d4ec'/><stop offset='1' stop-color='#7fa9cf'/></linearGradient>
+<linearGradient id='gSchild' x1='0' y1='0' x2='0' y2='1'><stop offset='0' stop-color='#4da3e0'/><stop offset='1' stop-color='#004b80'/></linearGradient>
+<linearGradient id='gBlatt' x1='0' y1='0' x2='1' y2='1'><stop offset='0' stop-color='#9fd37c'/><stop offset='1' stop-color='#3f8a3a'/></linearGradient>
+<filter id='fSchatten' x='-20%' y='-20%' width='140%' height='140%'><feDropShadow dx='1.5' dy='2.5' stdDeviation='2' flood-color='#1e293b' flood-opacity='.25'/></filter>
+<marker id='mPfeil' markerWidth='9' markerHeight='9' refX='7' refY='4.5' orient='auto'><path d='M0,0 L9,4.5 L0,9 z' fill='#004b80'/></marker>
+<marker id='mPfeilRot' markerWidth='9' markerHeight='9' refX='7' refY='4.5' orient='auto'><path d='M0,0 L9,4.5 L0,9 z' fill='#dc2626'/></marker>
+</defs>
+<rect width='480' height='288' rx='14' fill='url(#gHimmel)'/>
+<text x='18' y='26' font-size='15' font-weight='900' fill='#004b80' text-anchor='start' stroke='#ffffff' stroke-width='3.5' stroke-linejoin='round' paint-order='stroke'>Ansteckung durch Tröpfchen</text>
+<rect x='0' y='240' width='480' height='48' fill='url(#gBoden)'/>
+<g filter='url(#fSchatten)'><rect x='88.75' y='207.5' width='8.75' height='42.5' rx='3.75' fill='#334155'/><rect x='102.5' y='207.5' width='8.75' height='42.5' rx='3.75' fill='#334155'/><path d='M80.0,212.5 q0,-37.5 20.0,-42.5 q20.0,5.0 20.0,42.5 z' fill='#AD007C'/><path d='M82.5,177.5 q-12.5,15.0 -10.0,32.5' stroke='#AD007C' stroke-width='8.75' fill='none' stroke-linecap='round'/><path d='M117.5,177.5 q12.5,15.0 10.0,32.5' stroke='#AD007C' stroke-width='8.75' fill='none' stroke-linecap='round'/><circle cx='100' cy='152.5' r='18.75' fill='url(#gHaut)'/><path d='M81.25,150.0 q2.5,-22.5 18.75,-18.75 q16.25,-3.75 18.75,18.75 q-10.0,-10.0 -18.75,-7.5 z' fill='#5b3a1e'/><path d='M91.25,151.25 l5.0,2.5 M108.75,151.25 l-5.0,2.5' stroke='#1e293b' stroke-width='2.0'/><ellipse cx='105.0' cy='161.25' rx='5.0' ry='3.75' fill='#7a2e2e'/></g>
+<g filter='url(#fSchatten)'><rect x='368.75' y='207.5' width='8.75' height='42.5' rx='3.75' fill='#334155'/><rect x='382.5' y='207.5' width='8.75' height='42.5' rx='3.75' fill='#334155'/><path d='M360.0,212.5 q0,-37.5 20.0,-42.5 q20.0,5.0 20.0,42.5 z' fill='#006AB3'/><path d='M362.5,177.5 q-12.5,15.0 -10.0,32.5' stroke='#006AB3' stroke-width='8.75' fill='none' stroke-linecap='round'/><path d='M397.5,177.5 q12.5,15.0 10.0,32.5' stroke='#006AB3' stroke-width='8.75' fill='none' stroke-linecap='round'/><circle cx='380' cy='152.5' r='18.75' fill='url(#gHaut)'/><path d='M361.25,150.0 q2.5,-22.5 18.75,-18.75 q16.25,-3.75 18.75,18.75 q-10.0,-10.0 -18.75,-7.5 z' fill='#2b2b2b'/><circle cx='373.75' cy='151.25' r='2.25' fill='#1e293b'/><circle cx='386.25' cy='151.25' r='2.25' fill='#1e293b'/><path d='M373.75,160.0 q6.25,6.25 12.5,0' stroke='#1e293b' stroke-width='2.0' fill='none'/></g>
+<circle cx='123.8' cy='141.7' r='2.4' fill='#7ab8e8' opacity='0.85'/>
+<circle cx='126.6' cy='141.0' r='2.4' fill='#7ab8e8' opacity='0.84'/>
+<circle cx='142.9' cy='158.0' r='3.1' fill='#7ab8e8' opacity='0.83'/>
+<circle cx='135.9' cy='152.4' r='2.2' fill='#7ab8e8' opacity='0.82'/>
+<circle cx='139.3' cy='142.1' r='2.0' fill='#7ab8e8' opacity='0.82'/>
+<circle cx='155.5' cy='161.3' r='3.2' fill='#7ab8e8' opacity='0.81'/>
+<circle cx='157.6' cy='144.6' r='2.2' fill='#7ab8e8' opacity='0.80'/>
+<circle cx='158.9' cy='160.2' r='3.3' fill='#7ab8e8' opacity='0.79'/>
+<circle cx='167.1' cy='141.7' r='2.8' fill='#7ab8e8' opacity='0.78'/>
+<circle cx='167.9' cy='154.6' r='2.0' fill='#7ab8e8' opacity='0.77'/>
+<circle cx='168.9' cy='141.7' r='3.5' fill='#7ab8e8' opacity='0.76'/>
+<circle cx='179.3' cy='156.8' r='2.2' fill='#7ab8e8' opacity='0.75'/>
+<circle cx='184.1' cy='158.1' r='3.4' fill='#7ab8e8' opacity='0.75'/>
+<circle cx='187.3' cy='156.3' r='2.4' fill='#7ab8e8' opacity='0.74'/>
+<circle cx='187.4' cy='153.8' r='1.9' fill='#7ab8e8' opacity='0.73'/>
+<circle cx='186.8' cy='168.4' r='1.7' fill='#7ab8e8' opacity='0.72'/>
+<circle cx='186.8' cy='161.8' r='2.2' fill='#7ab8e8' opacity='0.71'/>
+<circle cx='198.8' cy='156.0' r='2.3' fill='#7ab8e8' opacity='0.70'/>
+<circle cx='210.3' cy='144.9' r='2.4' fill='#7ab8e8' opacity='0.69'/>
+<circle cx='201.7' cy='163.2' r='2.2' fill='#7ab8e8' opacity='0.68'/>
+<circle cx='208.3' cy='168.4' r='2.2' fill='#7ab8e8' opacity='0.68'/>
+<circle cx='215.7' cy='175.8' r='1.8' fill='#7ab8e8' opacity='0.67'/>
+<circle cx='211.9' cy='145.5' r='3.1' fill='#7ab8e8' opacity='0.66'/>
+<circle cx='224.8' cy='145.7' r='2.3' fill='#7ab8e8' opacity='0.65'/>
+<circle cx='222.0' cy='156.0' r='1.7' fill='#7ab8e8' opacity='0.64'/>
+<circle cx='234.4' cy='177.4' r='3.5' fill='#7ab8e8' opacity='0.63'/>
+<circle cx='239.1' cy='181.0' r='1.6' fill='#7ab8e8' opacity='0.62'/>
+<circle cx='236.1' cy='181.8' r='3.2' fill='#7ab8e8' opacity='0.62'/>
+<circle cx='242.2' cy='181.0' r='2.8' fill='#7ab8e8' opacity='0.61'/>
+<circle cx='252.9' cy='146.5' r='2.0' fill='#7ab8e8' opacity='0.60'/>
+<circle cx='251.0' cy='137.5' r='2.4' fill='#7ab8e8' opacity='0.59'/>
+<circle cx='263.4' cy='147.8' r='1.6' fill='#7ab8e8' opacity='0.58'/>
+<circle cx='252.9' cy='138.1' r='3.2' fill='#7ab8e8' opacity='0.57'/>
+<circle cx='262.1' cy='144.5' r='1.8' fill='#7ab8e8' opacity='0.56'/>
+<circle cx='276.1' cy='151.9' r='2.0' fill='#7ab8e8' opacity='0.55'/>
+<circle cx='265.5' cy='129.2' r='1.9' fill='#7ab8e8' opacity='0.55'/>
+<circle cx='279.5' cy='134.2' r='1.7' fill='#7ab8e8' opacity='0.54'/>
+<circle cx='280.7' cy='139.6' r='3.6' fill='#7ab8e8' opacity='0.53'/>
+<circle cx='278.9' cy='156.8' r='3.1' fill='#7ab8e8' opacity='0.52'/>
+<circle cx='287.6' cy='186.1' r='2.6' fill='#7ab8e8' opacity='0.51'/>
+<circle cx='289.1' cy='148.2' r='1.7' fill='#7ab8e8' opacity='0.50'/>
+<circle cx='296.1' cy='136.7' r='3.4' fill='#7ab8e8' opacity='0.49'/>
+<circle cx='306.8' cy='153.0' r='1.7' fill='#7ab8e8' opacity='0.48'/>
+<circle cx='301.7' cy='134.8' r='2.0' fill='#7ab8e8' opacity='0.48'/>
+<circle cx='305.4' cy='178.2' r='1.9' fill='#7ab8e8' opacity='0.47'/>
+<circle cx='306.7' cy='182.3' r='2.7' fill='#7ab8e8' opacity='0.46'/>
+<circle cx='180' cy='140' r='3.6' fill='#5fa85a' stroke='#2f6b34' stroke-width='.8'/><circle cx='185.4' cy='140.0' r='1.0' fill='#5fa85a'/><circle cx='183.8' cy='143.8' r='1.0' fill='#5fa85a'/><circle cx='180.0' cy='145.4' r='1.0' fill='#5fa85a'/><circle cx='176.2' cy='143.8' r='1.0' fill='#5fa85a'/><circle cx='174.6' cy='140.0' r='1.0' fill='#5fa85a'/><circle cx='176.2' cy='136.2' r='1.0' fill='#5fa85a'/><circle cx='180.0' cy='134.6' r='1.0' fill='#5fa85a'/><circle cx='183.8' cy='136.2' r='1.0' fill='#5fa85a'/>
+<circle cx='236' cy='168' r='3.6' fill='#5fa85a' stroke='#2f6b34' stroke-width='.8'/><circle cx='241.4' cy='168.0' r='1.0' fill='#5fa85a'/><circle cx='239.8' cy='171.8' r='1.0' fill='#5fa85a'/><circle cx='236.0' cy='173.4' r='1.0' fill='#5fa85a'/><circle cx='232.2' cy='171.8' r='1.0' fill='#5fa85a'/><circle cx='230.6' cy='168.0' r='1.0' fill='#5fa85a'/><circle cx='232.2' cy='164.2' r='1.0' fill='#5fa85a'/><circle cx='236.0' cy='162.6' r='1.0' fill='#5fa85a'/><circle cx='239.8' cy='164.2' r='1.0' fill='#5fa85a'/>
+<circle cx='290' cy='134' r='3.6' fill='#5fa85a' stroke='#2f6b34' stroke-width='.8'/><circle cx='295.4' cy='134.0' r='1.0' fill='#5fa85a'/><circle cx='293.8' cy='137.8' r='1.0' fill='#5fa85a'/><circle cx='290.0' cy='139.4' r='1.0' fill='#5fa85a'/><circle cx='286.2' cy='137.8' r='1.0' fill='#5fa85a'/><circle cx='284.6' cy='134.0' r='1.0' fill='#5fa85a'/><circle cx='286.2' cy='130.2' r='1.0' fill='#5fa85a'/><circle cx='290.0' cy='128.6' r='1.0' fill='#5fa85a'/><circle cx='293.8' cy='130.2' r='1.0' fill='#5fa85a'/>
+<circle cx='316' cy='176' r='3.6' fill='#5fa85a' stroke='#2f6b34' stroke-width='.8'/><circle cx='321.4' cy='176.0' r='1.0' fill='#5fa85a'/><circle cx='319.8' cy='179.8' r='1.0' fill='#5fa85a'/><circle cx='316.0' cy='181.4' r='1.0' fill='#5fa85a'/><circle cx='312.2' cy='179.8' r='1.0' fill='#5fa85a'/><circle cx='310.6' cy='176.0' r='1.0' fill='#5fa85a'/><circle cx='312.2' cy='172.2' r='1.0' fill='#5fa85a'/><circle cx='316.0' cy='170.6' r='1.0' fill='#5fa85a'/><circle cx='319.8' cy='172.2' r='1.0' fill='#5fa85a'/>
+<text x='232' y='104' font-size='13' font-weight='900' fill='#006AB3' text-anchor='middle' stroke='#ffffff' stroke-width='3.5' stroke-linejoin='round' paint-order='stroke'>Tröpfchen mit Viren</text>
+<text x='232' y='210' font-size='11' font-weight='700' fill='#6b7280' text-anchor='middle' stroke='#ffffff' stroke-width='3.5' stroke-linejoin='round' paint-order='stroke'>Husten, Niesen, Sprechen</text>
+<text x='100' y='278' font-size='12' font-weight='900' fill='#AD007C' text-anchor='middle' stroke='#ffffff' stroke-width='3.5' stroke-linejoin='round' paint-order='stroke'>krank</text>
+<text x='380' y='278' font-size='12' font-weight='900' fill='#006AB3' text-anchor='middle' stroke='#ffffff' stroke-width='3.5' stroke-linejoin='round' paint-order='stroke'>steckt sich an</text>
+</svg>
